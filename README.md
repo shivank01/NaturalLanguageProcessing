@@ -1,5 +1,5 @@
 # **NaturalLanguageProcessing**
-It includes python code of natural language processing such as sentiment analysis.I have written some of these codes while learning basics of Natural Language Processing from @sentdex tutorials.Now I am improving it myself.
+It includes python code of natural language processing such as sentiment analysis.I have written these codes while learning basics of Natural Language Processing.
 
 ## **SentimentAnalysis**
 In this folder there is the basic python implementation of live sentiment analysis of tweets.
